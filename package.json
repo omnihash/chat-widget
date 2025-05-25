@@ -11,7 +11,7 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
-  "author": "",
+  "author": "Omnihash",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.23.6",
@@ -60,5 +60,9 @@
   "dependencies": {
     "@omnihash/rollup-plugin-remove-files": "^1.0.0",
     "lucide-react": "^0.511.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omnihash/chat-widget.git"
   }
 }

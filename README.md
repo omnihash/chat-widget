@@ -1,5 +1,7 @@
 # Omnihash React ChatWidget Component
 
+![Chat Widget Example](./example.png)
+
 This project provides a reusable `ChatWidget` React component, designed for easy integration into your applications. The widget offers a customizable chat interface suitable for support, feedback, or conversational UI needs.
 
 ## Prerequisites
